@@ -1,2 +1,2 @@
-# the-textures-studio
-Website for the textures studio
+# peak-power-consultancy
+Website for peak power
